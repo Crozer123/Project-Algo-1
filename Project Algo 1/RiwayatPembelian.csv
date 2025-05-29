@@ -1,0 +1,20 @@
+Produk,Jumlah,Harga,Total,Alamat,Metode Pembayaran,Status
+Melon,6,5000.0,30000.0,jombang,Transfer Bank,Berhasil
+Cecek,2,10000.0,20000.0,hf,Transfer Bank,Berhasil
+Semangka,6,15000.0,90000.0,jombang,Cash On Delivery (COD),Berhasil
+Cabai,6,1000.0,6000.0,jombang,Transfer Bank,Berhasil
+Timun,2,1000.0,2000.0,jombang,Transfer Bank,Berhasil
+Jagung,4,1000.0,4000.0,jombang,Transfer Bank,Berhasil
+Brokoli,11,18000.0,198000.0,Jombang,Transfer Bank,Berhasil
+Wortel,10,10000.0,100000.0,jombang,Transfer Bank,Berhasil
+Beras Pandan Wangi,20,15000.0,300000.0,jombang,Transfer Bank,Berhasil
+Pisang Cavendish,12,15000.0,180000.0,jember,Transfer Bank,Berhasil
+Wortel,12,10000.0,120000.0,jember,Transfer Bank,Berhasil
+Gula Pasir,12,14000.0,168000.0,Jember,Transfer Bank,Berhasil
+Telur Ayam Kampung,11,2500.0,27500.0,Jember,Transfer Bank,Berhasil
+Minyak Goreng Sawit,11,20000.0,220000.0,jember,Transfer Bank,Berhasil
+Jeruk Mandarin,11,20000.0,220000.0,jember,Transfer Bank,Berhasil
+Jeruk Mandarin,1,20000.0,20000.0,rambi,Cash On Delivery (COD),Berhasil
+Pisang Cavendish,6,15000.0,90000.0,rambi,Cash On Delivery (COD),Berhasil
+Wortel,12,10000.0,120000.0,jombang,Transfer Bank,Berhasil
+Minyak Goreng Sawit,10,20000.0,200000.0,jombang,Transfer Bank,Berhasil
